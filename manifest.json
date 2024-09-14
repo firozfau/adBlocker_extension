@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "YouTube Ad Blocker",
   "version": "1.0",
-  "description": "Enjoy the FRZF7 Automatically YouTube AdBlocker.",
+  "description": "YouTube AdBlocker - Tested in Chrome Browser",
   "permissions": [
     "activeTab"
   ],
